@@ -1,6 +1,5 @@
 # IT150
-Lab Programs
+### Lab Programs
 
-Information Technology Department,
-
+Information Technology Department, \
 National Institute of Technology Karnataka, Surathkal.
